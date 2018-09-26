@@ -116,4 +116,5 @@ def main():
     print('works')
     autoReply()
 
-main()
+if __name__ == "__main__":
+    main()
